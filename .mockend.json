@@ -3,7 +3,7 @@
     {
       "id": "string",
       "name": "string",
-      "premium": "boolean,
+      "premium": "boolean",
       "imageUrl": "string",
       "description": "string",
       "tags": "string[]"
