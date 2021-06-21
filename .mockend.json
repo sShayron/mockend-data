@@ -1,28 +1,11 @@
 {
-  "jobs": [
+  "Job": 
     {
-      "id": 1,
-      "name": "Nairobi Saray",
-      "premium": true,
-      "imageUrl": "https://image.freepik.com/free-vector/profile-icon-male-avatar-hipster-man-wear-headphones_48369-8728.jpg",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam",
-      "tags": ["Exemplo", "Exemplo", "Exemplo"]
-    },
-    {
-      "id": 2,
-      "name": "Eve Polastri",
-      "premium": true,
-      "imageUrl": "https://image.freepik.com/free-vector/profile-icon-male-avatar-hipster-man-wear-headphones_48369-8728.jpg",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam",
-      "tags": ["Exemplo", "Exemplo", "Exemplo"]
-    },
-    {
-      "id": 3,
-      "name": "Vegan Cafe",
-      "premium": false,
-      "imageUrl": "https://image.freepik.com/free-vector/profile-icon-male-avatar-hipster-man-wear-headphones_48369-8728.jpg",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam",
-      "tags": ["Exemplo", "Exemplo", "Exemplo"]
+      "id": "string",
+      "name": "string",
+      "premium": "boolean,
+      "imageUrl": "string",
+      "description": "string",
+      "tags": "string[]"
     }
-  ]
 }
